@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m Muhammad Junaid Akhtar, a penetration tester and cybersecurity enthusiast with hands‑on experience in web application security, vulnerability assessment, and digital forensics. I specialize in identifying, exploiting, and mitigating OWASP Top 10 vulnerabilities through realistic labs, red‑team simulations, and practical projects.<br><br>I’ve worked on designing CTF-style challenges, deploying honeypots, and performing structured penetration testing using industry-standard tools like Burp Suite, Nmap, Metasploit, and Nessus. I enjoy solving forensic cases, Web Exploitation and continuously improving my offensive security skills.
+Hi! I’m Muhammad Junaid Akhtar, a Junior penetration tester with hands‑on experience in web application security, vulnerability assessment. I specialize in identifying, exploiting, and mitigating OWASP Top 10 vulnerabilities.<br><br>I’ve worked on designing CTF-style challenges, deploying honeypots, and performing structured penetration testing using industry-standard tools like Burp Suite, Nmap, Metasploit, and Nessus. I enjoy solving forensic cases, Web Exploitation and continuously improving my offensive security skills.
 
 
 ## 🌐 Socials:
@@ -15,9 +15,7 @@ Hi! I’m Muhammad Junaid Akhtar, a penetration tester and cybersecurity enthusi
 
 **Penetration Testing & Security:**  
 - Web Application Security  
-- Vulnerability Assessment  
-- Digital Forensics  
-- Network Protocols  
+- Vulnerability Assessment   
 - OWASP Top 10  
 
 **Tools:**  
