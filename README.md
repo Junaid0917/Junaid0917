@@ -1,8 +1,9 @@
-# 💫 About Me:
-Hi! I’m Muhammad Junaid Akhtar, a Junior penetration tester with hands‑on experience in web application security, vulnerability assessment. I specialize in identifying, exploiting, and mitigating OWASP Top 10 vulnerabilities.<br><br>I’ve worked on CTF-style challenges, deploying honeypots, and performing structured penetration testing using industry-standard tools like Burp Suite, Nmap, Metasploit, and Nessus. I enjoy Web Exploitation and continuously improving my offensive security skills.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AF7E7&center=true&width=435&lines=Hi!+I'm+Muhammad+Junaid+Akhtar)](https://git.io/typing-svg)
+
+a Junior penetration tester with hands‑on experience in web application security, vulnerability assessment. I specialize in identifying, exploiting, and mitigating OWASP Top 10 vulnerabilities.<br><br>I’ve worked on CTF-style challenges, deploying honeypots, and performing structured penetration testing using industry-standard tools like Burp Suite, Nmap, Metasploit, and Nessus. I enjoy Web Exploitation and continuously improving my offensive security skills.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-junaid-akhtar-48b3b7341) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@junaidace) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@JunaidAce) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:junaidfps@gmail.com)
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/JunaidAce.png)](https://tryhackme.com/p/JunaidAce)
@@ -11,7 +12,7 @@ Hi! I’m Muhammad Junaid Akhtar, a Junior penetration tester with hands‑on ex
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 🛠 Skills & Tools
+# 🛠 Skills & Tools
 
 **Penetration Testing & Security:**  
 - Web Application Security  
