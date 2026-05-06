@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AF7E7&center=true&vCenter=true&width=435&lines=+Hi!+I'm+Muhammad+Junaid+Akhtar)](https://git.io/typing-svg) ![](assets/madara.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AF7E7&center=true&vCenter=true&width=435&lines=+Hi!+I'm+Muhammad+Junaid+Akhtar)](https://git.io/typing-svg)
 
 a Junior penetration tester with hands‑on experience in web application security, vulnerability assessment. I specialize in identifying, exploiting, and mitigating OWASP Top 10 vulnerabilities.<br><br>I’ve worked on CTF-style challenges, as well as organizing CTF events, deploying honeypots, and performing structured penetration testing using industry-standard tools like Burp Suite, Nmap, Metasploit, and Nessus. I enjoy Web Exploitation and continuously improving my offensive security skills.
 
@@ -30,4 +30,4 @@ a Junior penetration tester with hands‑on experience in web application securi
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Junaid0917&icon=10&color=9)](https://visitcount.itsvg.in)
-![Yuji vs Sukuna](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGh4bzY3ejl2cDh2YmV5am84ZDdzazB2ZWwxOXVka29zbHVhZDF2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7JqCZCuwEYdry/giphy.gif)
+![Yuji vs Sukuna](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGh4bzY3ejl2cDh2YmV5am84ZDdzazB2ZWwxOXVka29zbHVhZDF2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7JqCZCuwEYdry/giphy.gif) ![](assets/madara.gif)
