@@ -30,4 +30,4 @@ a Junior penetration tester with hands‑on experience in web application securi
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Junaid0917&icon=10&color=9)](https://visitcount.itsvg.in)
-![Yuji vs Sukuna](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGh4bzY3ejl2cDh2YmV5am84ZDdzazB2ZWwxOXVka29zbHVhZDF2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7JqCZCuwEYdry/giphy.gif) ![](assets/madara.gif)
+                                                                                    ![](assets/madara.gif)
