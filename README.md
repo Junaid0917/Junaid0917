@@ -16,7 +16,7 @@ a Junior penetration tester with hands‑on experience in web application securi
 
 **Penetration Testing & Security:**  
 - Web Application Security  
-- Vulnerability Assessment   [![](https://visitcount.itsvg.in/api?id=Junaid0917&icon=10&color=9)](https://visitcount.itsvg.in) ![](assets/Ash.gif)
+- Vulnerability Assessment  
 - OWASP Top 10  
 
 **Tools:**  
@@ -29,4 +29,4 @@ a Junior penetration tester with hands‑on experience in web application securi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
+  --------- [![](https://visitcount.itsvg.in/api?id=Junaid0917&icon=10&color=9)](https://visitcount.itsvg.in) ![](assets/Ash.gif)  ---------
