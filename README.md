@@ -29,4 +29,4 @@ a Junior penetration tester with hands‑on experience in web application securi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
- [![](https://visitcount.itsvg.in/api?id=Junaid0917&icon=10&color=9)](https://visitcount.itsvg.in) ![](assets/Ash.gif)  [![](https://visitcount.itsvg.in/api?id=Junaid0917&icon=10&color=9)](https://visitcount.itsvg.in) ![](assets/madara.gif)  
+   [![](https://visitcount.itsvg.in/api?id=Junaid0917&icon=10&color=9)](https://visitcount.itsvg.in) ![](assets/madara.gif)  
