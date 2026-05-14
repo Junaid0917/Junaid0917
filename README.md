@@ -29,12 +29,10 @@ a Junior penetration tester with hands‑on experience in web application securi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-  <p align="center">
+ <p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Junaid0917&icon=10&color=9" />
   </a>
-</p>
 
-<p align="center">
   <img src="assets/madara.gif" />
 </p>
