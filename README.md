@@ -30,9 +30,6 @@ a Junior penetration tester with hands‑on experience in web application securi
 
 ---
  <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Junaid0917&icon=10&color=9" />
-  </a>
-
+ 
   <img src="assets/madara.gif" />
 </p>
