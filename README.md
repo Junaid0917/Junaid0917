@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AF7E7&center=true&vCenter=true&width=435&lines=+Hi!+I'm+Muhammad+Junaid+Akhtar)](https://git.io/typing-svg)
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=24&pause=700&color=00FF00&center=true&vCenter=true&width=650&lines=>+Booting+Junaid+System...;>+Loading+Security+Modules...;>+Initializing+Pentesting+Environment...;>+Hi+I+am+Junaid;>+Status:+Active+Hunter" />
+
+</div>
 
 a Junior penetration tester with hands‑on experience in web application security, vulnerability assessment. I specialize in identifying, exploiting, and mitigating OWASP Top 10 vulnerabilities.<br><br>I’ve worked on CTF-style challenges, as well as organizing CTF events, deploying honeypots, and performing structured penetration testing using industry-standard tools like Burp Suite, Nmap, Metasploit, and Nessus. I enjoy Web Exploitation and continuously improving my offensive security skills.
 
