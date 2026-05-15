@@ -29,7 +29,7 @@
 <br><br>
 
 <a href="https://tryhackme.com/p/JunaidAce">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/JunaidAce.png" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/JunaidAce.png" />
 </a>
 
 </div>
