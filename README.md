@@ -17,7 +17,7 @@
 
 <br>
 
-<img src="assets/fire.gif" height="120" />
+<img src="assets/susano.gif" height="120" />
 
 <br><br>
 
