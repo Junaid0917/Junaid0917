@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=24&pause=700&color=00FF00&center=true&vCenter=true&width=650&lines=>+Booting+Junaid+System...;>+Loading+Security+Modules...;>+Initializing+Pentesting+Environment...;>+Hi+I+am+Junaid;>+Status:+Active+Hunter" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=24&pause=700&color=00FF00&center=true&vCenter=true&width=650&lines=>+Hi+I+am+Junaid;>+Status:+Active+Hunter" />
 
 </div>
 
@@ -12,25 +12,12 @@ a Junior penetration tester with hands‑on experience in web application securi
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/JunaidAce.png)](https://tryhackme.com/p/JunaidAce)
 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 # 🛠 Skills & Tools
 
 **Penetration Testing & Security:**  
 - Web Application Security  
 - Vulnerability Assessment  
 - OWASP Top 10  
-
-**Tools:**  
-[![Nmap](https://img.shields.io/badge/Nmap-Advanced-green)]() 
-[![Burp Suite](https://img.shields.io/badge/BurpSuite-Very%20Good-orange)]() 
-[![Metasploit](https://img.shields.io/badge/Metasploit-Advanced-red)]() 
-[![Nessus](https://img.shields.io/badge/Nessus-Very%20Good-blue)]()  
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 <div align="center">
