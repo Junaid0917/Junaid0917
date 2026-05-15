@@ -29,7 +29,10 @@ a Junior penetration tester with hands‑on experience in web application securi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
- <p align="center">
- 
-  <img src="assets/madara.gif" />
-</p>
+<div align="center">
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+ <br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/madara.gif" height="40" />
+<br><br>
+[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
+[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
