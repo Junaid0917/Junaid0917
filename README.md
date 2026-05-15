@@ -17,7 +17,7 @@
 
 <br>
 
-<img src="assets/download.gif" height="90" />
+<img src="assets/download.gif" height="120" />
 
 <br><br>
 
