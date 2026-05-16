@@ -26,5 +26,3 @@
 [![](https://img.shields.io/badge/youtube-FF0000)](https://youtube.com/@JunaidAce)
 [![](https://img.shields.io/badge/tryhackme-212C42)](https://tryhackme.com/p/JunaidAce)
 
-<br>
-
