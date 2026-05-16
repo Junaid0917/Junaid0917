@@ -1,5 +1,4 @@
 <div align="center">
-<img src="assets/fire.gif" height="120" align="center" />
 <img src="assets/gengar.jpeg" width="25%" align="right" />
 <img src="assets/psyduck.jpeg" width="25%" align="left" />
 
