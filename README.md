@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/assets/kyubey.gif" align="center" />
+<img src="assets/Monkey King GIF.gif" height="120" />
 <img src="assets/gengar.jpeg" width="25%" align="right" />
 <img src="assets/psyduck.jpeg" width="25%" align="left" />
 
@@ -17,7 +17,7 @@
 
 <br>
 
-<img src="assets/kyubey.gif" height="120" />
+<img src="assets/Ash.gif" height="120" />
 
 <br><br>
 
