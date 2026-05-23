@@ -17,7 +17,7 @@
 
 <br>
 
-<img src="assets/Ash.gif" height="120" />
+<img src="assets/kyubey.gif" height="120" />
 
 <br><br>
 
