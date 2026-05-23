@@ -7,7 +7,7 @@
 
 <pre>
     🎓 Cybersecurity Student • Junior Pentester
-    🔐 Web Application Security • Vulnerability Assessment
+    🔐 Web Application Security • VAPT
     🧠 OWASP Top 10 • Recon • Web Exploitation
     ⚔️ Burp Suite • Nmap • Metasploit • Nessus
     🏴 CTF Player • CTF Organizer 
