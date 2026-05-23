@@ -1,6 +1,6 @@
 <div align="center">
 <img src="assets/Monkey King GIF.gif" height="150" />
-    <img src="assets/kyubey.gif" align="right" />
+    <img src="assets/kyubey.gif" align="center" />
 <img src="assets/gengar.jpeg" width="25%" align="right" />
 <img src="assets/psyduck.jpeg" width="25%" align="left" />
 
