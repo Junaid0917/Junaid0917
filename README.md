@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/assets/Monkey King GIF.gif" align="center" />
+<img src="assets/assets/kyubey.gif" align="center" />
 <img src="assets/gengar.jpeg" width="25%" align="right" />
 <img src="assets/psyduck.jpeg" width="25%" align="left" />
 
