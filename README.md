@@ -1,3 +1,4 @@
+
 <div align="center">
 <img width="400" height="120" alt="giphy" src="https://github.com/user-attachments/assets/49e0f079-442f-4334-ab5e-018706c0f574" />
 <img src="assets/gengar.jpeg" width="25%" align="right" />
@@ -17,8 +18,8 @@
 
 <br>
 
-<img src="assets/Ash.gif" height="120" />
 
+<img width="215" height="160" alt="giphy" src="https://github.com/user-attachments/assets/c0930a16-e824-4f52-803e-fe102889b1be" />
 <br><br>
 
 <!--[![](https://img.shields.io/badge/linkedin-0A66C2)](https://linkedin.com/in/muhammad-junaid-akhtar-48b3b7341)
