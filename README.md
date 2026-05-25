@@ -19,7 +19,7 @@
 <br>
 
 
-<img width="215" height="160" alt="giphy" src="https://github.com/user-attachments/assets/c0930a16-e824-4f52-803e-fe102889b1be" />
+<img width="215" height="140" alt="giphy" src="https://github.com/user-attachments/assets/c0930a16-e824-4f52-803e-fe102889b1be" />
 <br><br>
 
 <!--[![](https://img.shields.io/badge/linkedin-0A66C2)](https://linkedin.com/in/muhammad-junaid-akhtar-48b3b7341)
