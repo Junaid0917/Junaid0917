@@ -26,4 +26,4 @@
 [![](https://img.shields.io/badge/medium-12100E)](https://medium.com/@junaidace)
 [![](https://img.shields.io/badge/youtube-FF0000)](https://youtube.com/@JunaidAce)
 [![](https://img.shields.io/badge/tryhackme-212C42)](https://tryhackme.com/p/JunaidAce)
-
+<img width="400" height="120"  align="center" alt="giphy" src="https://github.com/user-attachments/assets/49e0f079-442f-4334-ab5e-018706c0f574" />
