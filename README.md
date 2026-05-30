@@ -1,6 +1,5 @@
 
 <div align="center">
-<img width="400" height="120"  align="center" alt="giphy" src="https://github.com/user-attachments/assets/49e0f079-442f-4334-ab5e-018706c0f574" />
 <img src="assets/gengar.jpeg" width="25%" align="right" />
 <img src="assets/psyduck.jpeg" width="25%" align="left" />
 
