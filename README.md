@@ -18,7 +18,7 @@
 <br>
 
 
-<img width="215" height="140" alt="giphy" src="assets/Monkey King GIF.gif" />
+<img width="215" height="180" alt="giphy" src="assets/Monkey King GIF.gif" />
 <br><br>
 
 <!--[![](https://img.shields.io/badge/linkedin-0A66C2)](https://linkedin.com/in/muhammad-junaid-akhtar-48b3b7341)
