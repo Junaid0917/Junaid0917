@@ -1,7 +1,7 @@
 
 <div align="center">
 <img src="assets/download.jpeg" width="25%" align="right" />
-<img src="assets/gengar.jpeg" width="25%" align="left" />
+
 
 
 <br><br>
@@ -27,3 +27,4 @@
 [![](https://img.shields.io/badge/tryhackme-212C42)](https://tryhackme.com/p/JunaidAce)
 <img width="400" height="120"  align="center" alt="giphy" src="https://github.com/user-attachments/assets/49e0f079-442f-4334-ab5e-018706c0f574" />
 <img width="215" height="140" alt="giphy" src="https://github.com/user-attachments/assets/c0930a16-e824-4f52-803e-fe102889b1be" />
+<img src="assets/gengar.jpeg" width="25%" align="left" />
