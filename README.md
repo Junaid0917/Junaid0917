@@ -1,7 +1,7 @@
 
 <div align="center">
 <img src="assets/download.jpeg" width="25%" align="right" />
-<img src="assets/narutos.jfif"  height="700"width="25%" align="left" />
+<img src="assets/gengar.jpeg" width="25%" align="left" />
 
 
 <br><br>
