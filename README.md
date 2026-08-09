@@ -20,6 +20,13 @@
 
 <img width="255" height="180" alt="giphy" src="assets/Monkey King GIF.gif" />
 <br><br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg">
+    <img alt="GitHub contribution snake" src="dist/github-snake.svg">
+  </picture>
+</p>
 <!--[![](https://img.shields.io/badge/linkedin-0A66C2)](https://linkedin.com/in/muhammad-junaid-akhtar-48b3b7341)
 [![](https://img.shields.io/badge/medium-12100E)](https://medium.com/@junaidace)
 [![](https://img.shields.io/badge/youtube-FF0000)](https://youtube.com/@JunaidAce)
