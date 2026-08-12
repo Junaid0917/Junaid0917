@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="assets/psyduck.jpeg" width="25%" align="right" />
+<img src="assets/kyubey.gif" width="25%" align="right" />
 <img src="assets/gengar.jpeg" width="25%" align="left" />
 
 
@@ -12,7 +12,7 @@
     🧠 OWASP Top 10 • Recon • Web Exploitation
     ⚔️ Burp Suite • Nmap • Metasploit • Nessus
     🏴 CTF Player • CTF Organizer 
-    🎮 Gaming • Linux  • Security Research
+    🎮 Gaming • Linux  • Security Researcher
 </pre>
 
 <br>
